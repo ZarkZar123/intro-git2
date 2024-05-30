@@ -1,3 +1,4 @@
 hello
 changes made by new developer
 local repo changes 
+conflict simulation text
