@@ -1,2 +1,3 @@
 hello
 changes made by new developer
+conflict simulation text
